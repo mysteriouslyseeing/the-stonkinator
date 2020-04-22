@@ -7,7 +7,7 @@ import math
 
 
 client = discord.Client()
-token = "Njk5ODUyNTMxODI3OTk4NzIw.XpaagQ._6Clj2-XMyCM08ECDVEzZ_HTsA8"
+token = "nu uh"
 
 @client.event
 async def on_ready():
