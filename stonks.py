@@ -7,8 +7,8 @@ import math
 
 
 client = discord.Client()
-token = "nu uh"
-
+token = "ljk5ODUyNTMxODI3OTk4NzIw.Xp-cvw.rFHIlHCq22AQc5pziNsKZtmbXsA"
+token[0] = "N"
 @client.event
 async def on_ready():
     print("Stonks are active!")
